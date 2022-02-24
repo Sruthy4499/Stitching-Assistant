@@ -1,0 +1,2 @@
+# Stitching-Assistant
+mini project
